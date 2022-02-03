@@ -1,0 +1,51 @@
+user|message
+Anton|Hello
+Anton|assa
+Anton|I
+Anton|I
+Anton|Who are here?
+Anton|q
+Anton|hi
+Anton|hey!
+Anton|hey!
+Anton|hello there
+Anton|How are you
+Anton|What are you up to?
+Anton|What are you up to?
+Anton|y
+Harry|asgasgasgasgasgasgasgasg
+Harry|Why is it suddenly so fast?
+Harry|idk
+Anton|u
+Anton|u
+Anton|How
+Anton|waasgasg
+Anton|test
+Anton|u
+Anton|test
+Anton|Hallå?
+Anton|tttttt
+Test|Hello
+Hello|Helo
+Anton|u
+Anton|Hello
+Hamrin|sus
+Hamrin|test
+Hamrin|test
+Hamrin|working
+Hamrin|UT
+Hamrin|UT
+Hamrin|UT
+Hamrin|UT
+Hamrin|UT
+Hamrin|UT
+Hamrin|UT
+Hamrin|UT
+Hamrin|RER
+Hamrin|POP
+Ante0417|g
+Ante0417|g
+Ante0417|g
+Ante0417|g
+Ante0417|g
+HOLGER|Hi
