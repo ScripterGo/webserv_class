@@ -1,1 +1,13 @@
 
+Routen /login används för att logga in, med en given användare. Här är en användare:
+  "förnamn": "Anton",
+  "efternamn": "Magnusson",
+  "password": "Anton",
+  "ålder": 19,
+
+Sedan får du en token som du kan använda för att få användardata enligt detta exempel:
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZsO2cm5hbW4iOiJBbnRvbiIsImVmdGVybmFtbiI6Ik1hZ251c3NvbiIsImlhdCI6MTY1MTc0MDA3NywiZXhwIjoxNjUxNzQ3Mjc3fQ.tyZ0V6_ubkpuN0jzZ1UYLwAasq9fAlXI3TrDtteQZYk" 
+
+Notera att den givna exempel token kanske är utgången.
+
+
