@@ -1,1 +1,4 @@
 
+index.js är serversidan som måste vara på när klienterna ansluter.
+Ip adresser kan komma att behövas ändras i koden eftersom jag utformade det så att det skulle fungera med mina inställningar.
+Den spelare som går med sist blir jagare
